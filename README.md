@@ -1,6 +1,6 @@
 # 🧮 API de Cálculo de Descontos com Design Patterns
 
-API REST desenvolvida em **Java** com **Spring Boot** para consolidação dos conceitos de Padrões de Projeto (Design Patterns) aplicados a um cenário real de e-commerce. Projeto desenvolvido como desafio final do módulo de Padrões de Projeto no Bootcamp Java Backend.
+API REST desenvolvida em **Java** com **Spring Boot** para consolidação dos conceitos de Padrões de Projeto (Design Patterns) aplicados a um cenário real de e-commerce. Projeto desenvolvido como desafio final do módulo de Padrões de Projeto no Bootcamp Java Backend da NTT DATA.
 
 ---
 
